@@ -1,9 +1,14 @@
-# api documentation for  [typeahead.js (v0.11.1)](http://twitter.github.com/typeahead.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-typeahead.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-typeahead.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-typeahead.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-typeahead.js)
+# npmdoc-typeahead.js
+
+#### api documentation for  [typeahead.js (v0.11.1)](http://twitter.github.com/typeahead.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-typeahead.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-typeahead.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-typeahead.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-typeahead.js)
+
 #### fast and fully-featured autocomplete library
 
-[![NPM](https://nodei.co/npm/typeahead.js.png?downloads=true)](https://www.npmjs.com/package/typeahead.js)
+[![NPM](https://nodei.co/npm/typeahead.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/typeahead.js)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-typeahead.js/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-typeahead.js_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-typeahead.js/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-typeahead.js/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-typeahead.js/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-typeahead.js/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-typeahead.js/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-typeahead.js/build/screenCapture.npmPackageListing.svg)
 
@@ -83,13 +88,11 @@
     "main": "dist/typeahead.bundle.js",
     "maintainers": [
         {
-            "name": "jharding",
-            "email": "jacob.s.harding@gmail.com"
+            "name": "jharding"
         }
     ],
     "name": "typeahead.js",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/twitter/typeahead.js.git"
@@ -100,16 +103,6 @@
     "version": "0.11.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module typeahead.js](#apidoc.module.typeahead.js)
-
-
-
-# <a name="apidoc.module.typeahead.js"></a>[module typeahead.js](#apidoc.module.typeahead.js)
 
 
 
