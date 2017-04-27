@@ -1,6 +1,6 @@
 # npmdoc-typeahead.js
 
-#### api documentation for  [typeahead.js (v0.11.1)](http://twitter.github.com/typeahead.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-typeahead.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-typeahead.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-typeahead.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-typeahead.js)
+#### basic api documentation for  [typeahead.js (v0.11.1)](http://twitter.github.com/typeahead.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-typeahead.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-typeahead.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-typeahead.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-typeahead.js)
 
 #### fast and fully-featured autocomplete library
 
@@ -100,7 +100,8 @@
     "scripts": {
         "test": "./node_modules/karma/bin/karma start --single-run --browsers PhantomJS"
     },
-    "version": "0.11.1"
+    "version": "0.11.1",
+    "bin": {}
 }
 ```
 
